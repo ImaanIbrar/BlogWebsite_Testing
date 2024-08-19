@@ -1,0 +1,6 @@
+POST http://localhost:3001/api/blogs/64a95a914473594ccd326e6d/comments
+content-type: application/json
+
+{
+  "comment": "Every React developer should read this!"
+}
